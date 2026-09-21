@@ -1,3 +1,3 @@
-I drew some symbols in Affinity for my own physics research and saved them as SVG files. You can use them to illustrate your physics topics (thesis, article, presentation...).
+I drew some symbols in Affinity for my own physics research and saved them as SVG files. You can use/modify them to illustrate your physics topics (thesis, article, presentation...).
 
-<img width="1073" height="332" alt="image" src="https://github.com/user-attachments/assets/2382077b-7af5-48e9-bb69-e15bebf7cf86" />
+<img width="1347" height="380" alt="image" src="https://github.com/user-attachments/assets/182c7561-3c93-4265-a38f-b167160ce4e7" />
